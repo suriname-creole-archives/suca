@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title lang="srn">Annotatien op de Surinaamsche Beschrijvinge van Anno 1718</title>
+        <author>J. Nepveu</author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <note>121-123</note>
+        </availability>
+        <date when="1718">1718</date>
+      </publicationStmt>
+    </fileDesc>
+    <sourceDesc>
+      <p>CMDI Metadata: <ref target="https://hdl.handle.net/1839/d07544d2-58b4-40a1-b98c-d16cd5b7549f"/></p>
+    </sourceDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <title lang="nld" xml:id="i-1f8edb5a-3301-486b-93d9-fd689acfc0fc">Annotatien op de Surinaamsche Beschrijvinge van Anno 1718</title>
+            <author lang="nld" xml:id="i-8c0b9efd-464e-4e71-ab95-1d07aeab7e75">J. Nepveu</author>
+            <note xml:id="i-4e69cd92-6140-462e-96ea-f29c186df4a4">Op fo. 121</note>
+            <head xml:id="i-e05e060e-09c7-4679-b82f-c48bce7fea4b">
+                <span xml:id="i-7bdc577c-d8a3-4e64-a263-c291e9b71775">de Neeger-Engelsche</span>
+                <span xml:id="i-c735d77d-bf44-4b5b-8e2f-e5cf9a993b70">zaamenspraaken</span>
+                <span xml:id="i-fdb27e3b-10e0-4128-bcbf-6915c1304236">Remarques en</span>
+                <span xml:id="i-cf928f6d-cb63-4215-9158-e5a9a123af37">bijvoegzels</span>
+            </head>
+            <note xml:id="i-bb83dedd-bc82-4abc-933e-03c410ca4e9f">
+                <pb/>
+                274
+            </note>
+            <p xml:id="i-bd1e0b64-5a5e-473c-b98d-f38593c0f5c1" lang="srn">
+                <span xml:id="i-dec4d473-c5b1-49eb-a720-ac4c4c7caa20">2e Regel</span>
+                <span xml:id="i-8c234015-b159-4264-8234-fc8ff693bd22">Men zegt; Ou fasi jou tan en niet tem</span>
+            </p>
+            <p xml:id="i-61be4459-be42-4b65-a32b-4056e512c3fc" lang="srn">
+                <span xml:id="i-aef9ce4b-f3e9-49fd-bb44-96549c13cb64">3e Regel</span>
+                <span xml:id="i-c7420f8e-37e8-41a5-96a9-0c83abb98762">mi de boen</span>
+            </p>
+            <p xml:id="i-3d4c5b61-c738-4b38-ad83-afd2f603a43b" lang="srn">
+                <span xml:id="i-3044f1ac-b170-42a3-878f-e73a9caa2bc7">4e ......</span>
+                <span xml:id="i-c4a3ae15-d5cd-4cb8-bd89-ebe7fb364f47">mi de bellewel of mi de boen. bellewel is meer Engelsch, tans zijn veel Engelsche woorden in duytsche verandert.</span>
+            </p>
+            <p xml:id="i-3871cb04-664e-4d12-bf21-1aa92f96f62f" lang="srn">
+                <span xml:id="i-2a6f50d9-799c-4bf4-afd7-2a69a699fa77">14e .....</span>
+                <span xml:id="i-f6c1d4ce-7658-40b2-bc25-40e0c9281d7f">Mie jarij no grande bon, thans, mi jarie no mooij</span>
+            </p>
+            <note xml:id="i-6f5f125a-c41f-4448-b387-4b0ba385fae5">
+                <pb/>
+                275
+            </note>
+            <p xml:id="i-cd54e7af-d935-4c88-8321-be3fb628fc25" lang="srn">
+                <span xml:id="i-9c0b508c-3d61-43d7-b08a-2a631c748585">Op fo. 122</span>
+            </p>
+            <p xml:id="i-34be72ab-f9e5-45f0-bd25-c19abc1decd2" lang="srn">
+                <span xml:id="i-8170f24f-b9cd-41e3-b4ee-d59f48fa5c40">20e ....</span>
+                <span xml:id="i-e0ca223a-520e-42ec-a4d5-d8c9e623755a">Oe plesje tem, beeter, da tem jou plessie.</span>
+            </p>
+            <note xml:id="i-e8b46a24-98db-4f55-b1bc-6d37afc19d0e">
+                <pb/>
+                276
+            </note>
+            <p xml:id="i-550419f8-4cec-4419-a34f-3652dac1394e" lang="srn">
+                <span xml:id="i-22b4104a-a665-48cf-af4e-1ea46b00b46f">op de andere zaamenspraak</span>
+            </p>
+            <p xml:id="i-e872c8d7-0e9e-44a9-b8d5-fa2ffaacf82d" lang="srn">
+                <span xml:id="i-e7d29161-fd6d-4686-bbc5-fd85d4e006fa">2e Reegel</span>
+                <span xml:id="i-e78a1268-ef87-4922-833d-c3e39ffcce0b">men zegt ahakisi effi missie sa tan na Hosso</span>
+            </p>
+            <p xml:id="i-7e0748a1-ff35-46c6-9c25-3d5eb276b1ea" lang="srn">
+                <span xml:id="i-7f7c066a-6b2d-4299-8fab-bf9ef9f7c717">3e ......</span>
+                <span xml:id="i-3bde87d8-e8da-4e0f-b75b-94eefb8f7f69">________ a sa kom loeke jou &c.</span>
+            </p>
+            <p xml:id="i-ae84bfde-9684-4d98-86f3-cfc51a18e1d6" lang="srn">
+                <span xml:id="i-c19782d0-1f89-4ae5-8a4c-f3b50fa30ed5">4e ......</span>
+                <span xml:id="i-9d3e0502-c8b1-4d57-b99d-4fa0666db21d">________ no mi sendi hakisi, na tara plessi a reddi, of, no mi de go na doro, neen ik ga uijt</span>
+            </p>
+            <p xml:id="i-9b552591-382b-4dfb-81fd-b6290f7e5ca8" lang="srn">
+                <span xml:id="i-1e59e4d2-3cf0-4e89-b230-5e1e5bcad931">5e ......</span>
+                <span xml:id="i-f46b5ee9-c1d5-46fc-b434-e0cbf8aa0e28">as, men zegt effi, dat is als.</span>
+            </p>
+            <note xml:id="i-662a7c04-4e05-4b7e-b62e-1f640fb72d73">
+                <pb/>
+                277
+            </note>
+            <p xml:id="i-81e77eec-e4ea-4bfa-afc8-29a530415f81" lang="srn">
+                <span xml:id="i-e91f12d9-0d84-4ff0-bb8a-1b21c30159f2">op de nageregt</span>
+            </p>
+            <p xml:id="i-10fd7c87-5150-4a9e-a8d4-2e445c3ae2ec" lang="srn">
+                <span xml:id="i-dc8da0fe-f7ac-4557-a91f-0350879ecbc6">2e reegel</span>
+                <span xml:id="i-b6c44dde-ee41-49b7-8346-ecfc43bcb180">na bileau, men zegt meest, na grom</span>
+            </p>
+            <note xml:id="i-6f2f841c-4e40-4705-a28a-acfee8fcacbb">
+                <pb/>
+                275
+            </note>
+            <note xml:id="i-937542fa-db32-4681-b598-093e41732f02">
+                <pb/>
+                278
+            </note>
+            <p xml:id="i-820b5fae-c1c2-4b36-b65a-fc871a2d7279" lang="srn">
+                <span xml:id="i-1b6ea8fc-bf53-4fa4-bd2c-5f4899a25a57">8e Reegel</span>
+                <span xml:id="i-08b2e474-77c8-43dc-a972-336664dd9c58">tappe windels, men zegt, tappe fenstre oppo fenstre.</span>
+            </p>
+
+            <note xml:id="i-51b79ecb-314f-44f9-b9c5-dbe464849f07" lang="nld">Wijl het opgegeevene niet veel zaaks is, zal ik nog wat bijvoegen voor diegeene die na Suriname over wil gaan.</note>
+            <pb/>
+            <note xml:id="i-dae802f0-c34a-4a69-868e-ae13b3e2c74c" type="pageNr">
+                276
+            </note>
+            <p xml:id="i-bc471097-20db-421e-8f5f-c2de4bcf6780" lang="srn">
+                <span xml:id="i-e2c54e90-f2e6-4c66-bc46-90b69cbc3eb8" lang="srn">Aaij</span>
+                <span xml:id="i-c771d441-a1b0-4423-b713-b44c3f8cfb94">Ja</span>
+            </p>
+            <p xml:id="i-cf7871f8-a0c8-4427-aaf6-eb553c4a0371" lang="srn">
+                <span xml:id="i-27fc9d69-d16e-4138-84a4-3f7d52270663" lang="srn">No</span>
+                <span xml:id="i-bcc7b1ca-e008-4c43-a6a5-1a6d6f61c4f2" lang="nld">Neen Niet</span>
+            </p>
+            <p xml:id="i-e3d9573c-f798-48a5-b265-7b208941ba53" lang="srn">
+                <span xml:id="i-416002f2-ecb9-4932-8d44-de36739683b3" lang="srn">Nono</span>
+                <span xml:id="i-dbff9dea-01af-4f85-b20d-594ebd1b6fca">gansch niet</span>
+            </p>
+            <p xml:id="i-e2ced7f1-b650-4159-8c84-39b0ffe62de2" lang="srn">
+                <span xml:id="i-8e037c7a-89cc-4703-af1f-413a0cb88c90" lang="srn">troe</span>
+                <span xml:id="i-e6377e06-bc29-4984-b67f-d5b820528db4">waar</span>
+            </p>
+            <p xml:id="i-60e6b87e-f54e-4a58-bdc3-5bc54245c92f" lang="srn">
+                <span xml:id="i-b1893cb1-123a-4648-b60e-add29ae91546" lang="srn">troetroe</span>
+                <span xml:id="i-fc4b9166-d9e2-4d2e-82ee-92dd62c81867">waarlijk waar</span>
+            </p>
+            <p xml:id="i-6b2da532-6c4e-40b1-b50c-d3e3083906e8" lang="srn">
+                <span xml:id="i-c19caf20-ae9e-42c5-a805-95c9d718b962" lang="srn">da troe?</span>
+                <span xml:id="i-9e6285aa-7ef6-4f87-a239-15dcf51ee95d">is 't waar?</span>
+            </p>
+            <p xml:id="i-b02b0922-62ce-4f9d-82ec-a9345455307d" lang="srn">
+                <span xml:id="i-30a02fa2-9633-41ef-acd3-177e58b21adb" lang="srn">da troe troe</span>
+                <span xml:id="i-cd0f5620-6f95-4049-a284-f937965e3aa6">'t is waarlijk waar</span>
+            </p>
+            <p xml:id="i-74ea3d1f-3e75-4bcb-850f-4a0ae77568ba" lang="srn">
+                <span xml:id="i-bc5ccd6e-c811-4fe4-af96-1ea14c1d1972" lang="srn">da no troe</span>
+                <span xml:id="i-72d7eb0d-199c-43d2-9175-156ab582aa7c">datis niet waar</span>
+            </p>
+            <p xml:id="i-3070c35d-bc8b-4cae-b5aa-b16709e3ae0b" lang="srn">
+                <span xml:id="i-8ece6bc0-1abc-4fa1-b5ec-254dfb0c6c16" lang="srn">da no so</span>
+                <span xml:id="i-ff86ba66-d113-4e52-9dd8-bf8dc1b27a73">dat is niet zo</span>
+            </p>
+            <p xml:id="i-f7e69888-88cb-4be9-b405-5fc4b48f4af8" lang="srn">
+                <span xml:id="i-e29cf018-df0e-4e4d-b7be-4bfa50183ade" lang="srn">a taki troe</span>
+                <span xml:id="i-fd1bd8c5-a784-44b5-ac8f-dde39a6d3cca">hij of zij zegt waar</span>
+            </p>
+            <p xml:id="i-1bc74440-6ae9-49e5-847c-f21b30efc859" lang="srn">
+                <span xml:id="i-5fdd22ae-0888-40e9-b829-0e5ab9ede19d" lang="srn">no troe</span>
+                <span xml:id="i-70956ff8-a299-4ace-93c7-2d001c49b4a8">niet waar</span>
+            </p>
+            <p xml:id="i-74a37041-c47f-4aba-a9b3-e0215314976d" lang="srn">
+                <span xml:id="i-6cbcd80c-0b7c-46be-9bf3-4f63fad34068" lang="srn">leij</span>
+                <span xml:id="i-c457a4a4-637b-4c7d-b3b1-12d5da7eeda9">leugen</span>
+            </p>
+            <p xml:id="i-d7c9c639-2a3c-4d67-b0c8-5b4cf804c1d6" lang="srn">
+                <span xml:id="i-1210f249-4f51-4924-b530-3696d442695b"> lang="srn"a leij</span>
+                <span xml:id="i-cde64d77-f263-49bc-a6ce-d56bc7334816">hij of zij liegt</span>
+            </p>
+            <p xml:id="i-33b8d1ce-a9a7-4de0-b77a-385e3f4f32dc" lang="srn">
+                <span xml:id="i-ae799cdd-b450-4889-b8b0-e76c5d690239">a taki leij</span>
+                <span xml:id="i-92a638e7-416b-4637-964c-50715af767e7">hij spreekt leugen</span>
+            </p>
+            <p xml:id="i-fc867c9b-563f-4d2b-962e-dc5de3a6b503" lang="srn">
+                <span xml:id="i-85fe07d8-b60c-4ebf-86ff-fd12a8cf8f5f">boen</span>
+                <span xml:id="i-2ce610ff-e67f-440f-8f1d-244c6bf01f26">goed</span>
+            </p>
+            <p xml:id="i-f949d0c1-b9bb-4a52-ba3e-a0ceb3fbd6c1" lang="srn">
+                <span xml:id="i-beaf6c00-e1ef-4f2d-81c7-b33c95a1b8b8">boen boen</span>
+                <span xml:id="i-b64a13bc-53c4-4486-bec4-7d31a30c5eab">zeer goed</span>
+            </p>
+            <p xml:id="i-f0be75fa-eb4b-4c43-ba51-c9cce82664d6" lang="srn">
+                <span xml:id="i-3fc81371-2535-4378-8558-1dc1e71173f6">da wan boen soma</span>
+                <span xml:id="i-2b6259d4-33c1-42f5-a1d7-e9be60ac0b7e">t'is een goed Mensch</span>
+            </p>
+            <note xml:id="i-eaf2c646-a76c-4e72-bf91-295528d89ce5" lang="nld">
+                NB Men maakt in die taal geen onderscheyd in masculin en feminin.
+            </note>
+            <p xml:id="i-4cd949ab-11c7-4d82-874f-fb8dd9cf88e6" lang="srn">
+                <span xml:id="i-c78f87f9-ffa3-4b82-9951-4fc565f76e6a">a </span>
+                <span xml:id="i-b208c648-7c89-4b8f-9e9b-9cb37193c4c7">wil zeggen hij en zij</span>
+            </p>
+            <p xml:id="i-fb341c93-b97b-41aa-ba62-f6b25c76af96" lang="srn">
+                <span xml:id="i-131d70e3-fbd8-4197-b471-0aca00c895fb">him, </span>
+                <span xml:id="i-307c84a0-01dc-4664-8809-79820952e0de">ook hij en zij</span>
+            </p>
+            <p xml:id="i-30a5593d-f1bc-44d0-8715-90a331ba0669" lang="srn">
+                <span xml:id="i-1c81c2d1-e82e-4ad2-8254-7156029c290b">da wan leijman</span>
+                <span xml:id="i-0c5dbefb-321a-4095-8e68-e70d2cdd0f44">dat is een leugenaar</span>
+            </p>
+            <p xml:id="i-39b5a683-ecf7-4f40-be62-7bf4e811e51a" lang="srn">
+                <span xml:id="i-d0a80724-64a2-4c4f-932e-1d5bfeee6ede">a leij for troe</span>
+                <span xml:id="i-4b95c500-51f5-4f37-bafc-6e21092e3798">hij liegt voorwaar</span>
+            </p>
+            <p xml:id="i-5e3e73e3-8fb7-474e-ad6f-f68673034123" lang="srn">
+                <span xml:id="i-e3c8381b-bfa7-4287-b4b6-5d62c4dc6207">da wan biggi leij</span>
+                <span xml:id="i-90bfa9bc-5a1a-488e-b5b8-79c923c50734">dat is een groote leugen</span>
+            </p>
+            <p xml:id="i-02e2687e-f02e-4d9c-8432-d2538f72b230" lang="srn">
+                <span xml:id="i-d6271274-db69-4507-b626-1cb79100af11">a sabi leij</span>
+                <span xml:id="i-e5a79b92-037c-45c3-b12e-f737f7a95344">hij kan liegen of hij verstaat het liegen</span>
+            </p>
+            <p xml:id="i-67d65464-3c64-4b4e-9da5-d1601e203da1" lang="srn">
+                <span xml:id="i-c431c5ce-7248-4a73-8b93-070f60646ca1">hansom mooij</span>
+                <span xml:id="i-ad103847-181b-48ac-b720-99c016ee54b4">fraaij mooij</span>
+            </p>
+            <p xml:id="i-62e9332b-daba-4e46-aa48-99328960bcdf" lang="srn">
+                <span xml:id="i-719fc599-dc91-40cf-b9d5-49d258f563aa">a hansom for troe</span>
+                <span xml:id="i-c4bc7519-bc67-401d-83c4-e4cfed65ee04">t'is zeer mooij</span>
+            </p>
+            <p xml:id="i-a6cdd82d-d89f-4f2a-bafc-bd6ee3a72a4e" lang="srn">
+                <span xml:id="i-85dd11c5-f7b1-4c25-9183-b26be828c69b">a ben hansom</span>
+                <span xml:id="i-ee7f6eb2-8003-4e78-879d-e1bb653df043">hij of zij was mooij</span>
+            </p>
+            <p xml:id="i-939d6555-c70b-47f8-b89d-49e86896d5c0" lang="srn">
+                <span xml:id="i-2f826d6b-ff26-456f-bf46-e14e486d62f8">a no mooij moro</span>
+                <span xml:id="i-0a8e0c11-5f8e-463f-942f-ae9ee9ff5906">hij of zij is niet mooij meer</span>
+            </p>
+            <p xml:id="i-99b817b5-d500-4a87-8950-5cf66b1a2997" lang="srn">
+                <span xml:id="i-cd75c172-0854-4617-a196-2cabed55abe8">mino wanti joe</span>
+                <span xml:id="i-ba6c7634-b16e-4f68-947b-1c886d876374">ik wilje niet</span>
+            </p>
+            <p xml:id="i-f5a4693f-5b3f-47af-ace0-7fd5ab4cb6cc" lang="srn">
+                <span xml:id="i-31251c73-b415-4aba-94df-31bb18bc2f06">hoefasi</span>
+                <span xml:id="i-8dbde65c-67f8-48d7-a3a5-401d2da45c75">hoe is 't, hoe gaat 't</span>
+            </p>
+            <p xml:id="i-17a5b908-357c-4ab4-8a6d-79c315d97dfa" lang="srn">
+                <span xml:id="i-e7494643-8ca5-40ca-b6f3-86e1cb1e4bf6">a go boen of belwel</span>
+                <span xml:id="i-21754a7d-3485-41e7-a81e-2fcaaad999b8">'t gaat goed of zeer wel</span>
+            </p>
+            <pb/>
+            <note xml:id="i-0f04334b-0333-4a3b-9fec-35c972c58239" type="pageNr">
+                276
+            </note>
+            <p xml:id="i-b3ff82aa-2b27-40ab-a247-5ab862d1ac54" lang="srn">
+                <span xml:id="i-b0e6faeb-bfa1-4345-91ea-43e4f5546d35">takoeroe</span>
+                <span xml:id="i-bc7a05ba-b449-4c01-9b3e-fb6506b371da">leelijk</span>
+            </p>
+            <p xml:id="i-d78ccd82-7135-41d1-8a6e-0e334a64a9aa" lang="srn">
+                <span xml:id="i-425c2949-dd6c-4720-9cfc-7b0f98bcf79d">a takoeroe</span>
+                <span xml:id="i-ec3249cc-2527-4c28-8019-583f73445758">hij of zij is leelik</span>
+            </p>
+            <p xml:id="i-fc493463-f263-492d-943f-fafe1c85a872" lang="srn">
+                <span xml:id="i-822f20ce-0f9f-45dd-95a4-bf66c9453d00">lobi</span>
+                <span xml:id="i-402f1df5-f2dc-480d-bb46-494bc1782ae3">liefde</span>
+            </p>
+            <p xml:id="i-45b0c16e-b98e-4ed9-a0bf-2d4259d2f0ef" lang="srn">
+                <span xml:id="i-826cd671-19db-4ee8-b1f0-fd94dde8f7f9">a lobi him</span>
+                <span xml:id="i-7f3c7d94-d23d-426b-b37d-b128c0e58815">hij of sij heeft hem of haar lief</span>
+            </p>
+            <p xml:id="i-d776e151-05bd-447b-9fe1-2f42d3487803" lang="srn">
+                <span xml:id="i-544sfsfsfa4rg44">mi lobi him fortroe</span>
+                <span xml:id="i-c919f3c8-e1b3-45fe-be58-945615bd5ac2">ik heb hem of haar zeer lief</span>
+            </p>
+            <p xml:id="i-c8912b21-78e5-4f3c-b085-ed2bb89e365c" lang="srn">
+                <span xml:id="i-64791938-3e0c-4cb3-bbc8-3a721cedecb5">mi ben lobi him</span>
+                <span xml:id="i-11ba7b04-bbde-407c-816b-01d519a69cf0">ik heb lief gehad hem of haar</span>
+            </p>
+            <p xml:id="i-675e17ef-3fc2-4e44-b34e-bcc0d8f4c5f8" lang="srn">
+                <span xml:id="i-11a9c8c7-0ed3-409c-b9b1-825de0191b35">mi no sal lobi him</span>
+                <span xml:id="i-3cb27df8-a82c-48c0-b540-002c4043391e">ik zal hem of haar niet meer liefhebben</span>
+            </p>
+            <note xml:id="i-f82c6616-e0fc-458e-bbc8-4e59a823052d" lang="nld">
+                zij hebben geen woord dat eijgentlijk haat betekent, en gebruiken daar voor de spreekwijze
+            </note>
+            <p xml:id="i-1655edb7-065b-4d97-abc7-5f5b95d1add1" lang="srn">
+                <span xml:id="i-e177f1f2-ec1d-4bc3-bfbc-d30ab2812141">a holi mina belli</span>
+                <span xml:id="i-d43982db-82d4-4b7d-a3c4-6f479363e5c3">hij of zij houd mijn in 't lijf, in 't gemoed</span>
+            </p>
+            <p xml:id="i-6dda84f6-506b-4cc1-b418-d31762542824" lang="srn">
+                <span xml:id="i-762d7055-bd30-4a59-b063-0150f98ebee6">jou lobi mi?</span>
+                <span xml:id="i-bfc75c5a-e127-4c0f-bcce-ca6937b01156">heb je me lief</span>
+            </p>
+            <p xml:id="i-fbf26f4a-5bde-4704-9025-819dc5b6bb27" lang="srn">
+                <span xml:id="i-56f64846-a1ce-47ac-a943-431be338cb63">jou lobi mi</span>
+                <span xml:id="i-4f0e1f9e-4e71-4563-8696-fc23b4ddeae7">gij hebt mij lief</span>
+            </p>
+            <p xml:id="i-51785b17-7045-46c9-94ed-be8bf135d5cf" lang="srn">
+                <span xml:id="i-bc599748-e564-4d2f-8bcf-c2bc80866e88">mi lobi jou</span>
+                <span xml:id="i-cd51a091-aa83-4d8c-ba01-99527a5e20c7">ik hebje lief</span>
+            </p>
+            <p xml:id="i-252e414b-7230-41d4-8ee7-d37817ae0c9f" lang="srn">
+                <span xml:id="i-2334360c-59a5-4504-a7e3-646293b55c1f">mi lobi jou fortroe</span>
+                <span xml:id="i-ba4b57e2-16ae-4cd3-b7e6-652f68e32678">ik heb je zeer of waarlijk lief</span>
+            </p>
+            <p xml:id="i-0b69e9f1-d4b7-4afa-b8ca-3b77dbc30536" lang="srn">
+                <span xml:id="i-99fb6ce5-9d71-49c6-a25a-d72e274c9040">mi switi hatti</span>
+                <span xml:id="i-fd1ac93f-3b1e-4d00-bfd4-4279f57afba3">mijn lief mijn soet hart</span>
+            </p>
+            <p xml:id="i-d16174a3-6c05-48a6-bc33-e3d6f5c5e12a" lang="srn">
+                <span xml:id="i-d1801366-e365-44ab-8520-29a03a830efc">Souta</span>
+                <span xml:id="i-e51e238f-9edb-4ef5-8aa4-cd3a641caf6a">Maitres bijzit</span>
+            </p>
+            <p xml:id="i-b45a87c5-f883-4c48-bc2c-5951369b89ce" lang="srn">
+                <span xml:id="i-e1447cf4-430d-469f-bb09-2e789adf0c42">hoefasi jou tan</span>
+                <span xml:id="i-8ba5b368-5929-4186-be08-4f977d2a06cf">hoe vaar je</span>
+            </p>
+            <p xml:id="i-6dd3bbf3-a5ab-4a96-8d07-3dba0c15e2fd" lang="srn">
+                <span xml:id="i-9f58103d-a68f-44ab-b00a-b11b49b89fc9">hoe fasi jou missi tan</span>
+                <span xml:id="i-1b691bc9-828c-43f2-8652-1b5609e5ddbc">hoe vaart jou Meesteres of Meesters vrouw</span>
+            </p>
+            <p xml:id="i-7f8c0e09-2e37-4796-b7fb-a3e962ebd648" lang="srn">
+                <span xml:id="i-cf7591f8-54c6-4445-97cb-90814455c54e">moussi</span>
+                <span xml:id="i-6e783e2c-935a-4f5d-b1e2-b86edc02b716">veel</span>
+            </p>
+            <p xml:id="i-0a263a51-5dae-43e0-a63f-f6e0e3b66013" lang="srn">
+                <span xml:id="i-b5fe4815-0988-4683-b599-b79d133b6413">toe moussi</span>
+                <span xml:id="i-3341472b-5375-40d9-b79a-ed31d789b0a8">teveel, zeer veel</span>
+            </p>
+            <p xml:id="i-b4ac54f0-d282-4d47-8ff7-5ccab59d9ddf" lang="srn">
+                <span xml:id="i-e2db535b-9e33-435f-9b60-37f45c41e22b">foeloe</span>
+                <span xml:id="i-6d927fa9-f4ab-48a8-a80d-8253ba5dd8f7">een hoop zeer veel</span>
+            </p>
+            <p xml:id="i-cd4a5073-dd45-42ba-b674-fb5414da69e8" lang="srn">
+                <span xml:id="i-1e9633f0-ec8b-4f0e-830e-de754f9d88f3">no toe moussi</span>
+                <span xml:id="i-41fe4b6e-447e-4b5d-bd85-97207c41fd21">niet te veel</span>
+            </p>
+            <p xml:id="i-5ad51754-6e65-4c31-b554-4ac880f694a3" lang="srn">
+                <span xml:id="i-ec1ee4e3-a56d-4c4f-8e53-5f3be376349e">pekin of pikin</span>
+                <span xml:id="i-1e5b274e-ce0f-4154-a659-da4da40f2a5b">kleijn weinig</span>
+            </p>
+            <p xml:id="i-a17cf9b9-dbe5-44c6-b049-7ae19efe91b7" lang="srn">
+                <span xml:id="i-68e822a2-6608-4eeb-8fdb-07f356730628">pikin so</span>
+                <span xml:id="i-3f4c6cc7-5e8b-4f13-8cae-1b041e27adb4">een klein weinig</span>
+            </p>
+            <p xml:id="i-d1ed4b3f-ff42-4932-aa13-5e1ea5b4b974" lang="srn">
+                <span xml:id="i-a5fb9b78-4643-4d1b-ae45-0b423ead340c">pikin toe moussi</span>
+                <span xml:id="i-e22f4428-7b8f-46de-8e8d-f0a89dbef3f4">al te klein</span>
+            </p>
+            <p xml:id="i-8b50a8a4-88b7-4b1d-9220-d2c53a84bde8" lang="srn">
+                <span xml:id="i-b44de088-bb7b-4933-bd40-8b44bcdb47a5">a pekien toe moussi</span>
+                <span xml:id="i-e81d2578-b5f8-4f2d-8b08-e75bb8279c50">t'is al te kleyn</span>
+            </p>
+            <p xml:id="i-2680153f-a43d-4198-92dc-44d06fcdc7dc" lang="srn">
+                <span xml:id="i-98306965-8985-4c0f-8de5-33415e1fa813">nog pekin</span>
+                <span xml:id="i-dc614e2b-f731-4035-b536-5de0730d731e">niet klein</span>
+            </p>
+            <p xml:id="i-f9f8c09a-b4a4-4ec1-95c2-59ecaf84ec5b" lang="srn">
+                <span xml:id="i-a2ab2a65-3783-497d-bbc0-4e2216af5283">biggi</span>
+                <span xml:id="i-fcb2c6de-2aa3-46ab-b6bb-169b4cfe0e4b">groot</span>
+            </p>
+            <p xml:id="i-97f1aaf9-b3c5-442e-a690-975d449c6dd8" lang="srn">
+                <span xml:id="i-bb845578-ded5-48c1-b9b7-83c3d7b2086f">biggi grandi of biggi fortroe</span>
+                <span xml:id="i-fb8e5eeb-f27e-4f31-95f3-b540e22ca6c7">heel groot</span>
+            </p>
+            <p xml:id="i-53f2a3d4-dac9-44f6-90af-69e35c1384c2" lang="srn">
+                <span xml:id="i-1056b2bf-0bff-4480-bce6-f181cdd1f8c9">hafoe hafoe</span>
+                <span xml:id="i-1c91f56a-4e29-4b63-96c9-19ddc6ff228d">half en half</span>
+            </p>
+            <p xml:id="i-3cb80c4e-2c6e-4ad3-853f-3c266cc484b0" lang="srn">
+                <span xml:id="i-d3cc0e60-57c4-4054-be38-eadd1692f812">biggi Sama gran Sama</span>
+                <span xml:id="i-ec803d38-2779-4054-97a2-f14e0e3e2b59">groot Personagie</span>
+            </p>
+            <p xml:id="i-5bfbcbba-451c-4a84-b9c8-752fe2f95830" lang="srn">
+                <span xml:id="i-57563d2b-8711-4189-8958-a54245ac93e0">hebi</span>
+                <span xml:id="i-4d035b7a-852e-4fb7-b03c-9b651117f2c2">zwaar</span>
+            </p>
+            <p xml:id="i-3146e8a8-779c-4f2e-bdb5-6711257ddc14" lang="srn">
+                <span xml:id="i-f68c041f-d7d2-4d0c-9ea8-85df6de9f0ce">hebi Sama</span>
+                <span xml:id="i-edeaebde-a782-470b-bbfa-6998d0841165">zwaarwigtig Persoon</span>
+            </p>
+            <p xml:id="i-f15926b6-eaf0-43e6-9daf-381f13b8bb04" lang="srn">
+                <span xml:id="i-c64dc94e-7aba-42b2-918e-2b8e2634d1e8">a dea na hebi</span>
+                <span xml:id="i-8d01ce88-0d22-4d35-92dc-27fe8d0da184">hij is aan de groote of zwaare zijde</span>
+            </p>
+                <pb/>
+            <note xml:id="i-0a6f80c8-81ef-4187-b120-88fe249e99ff" type="pageNr">
+                277
+            </note>
+            <p xml:id="i-9a07d494-0ab3-4e63-bb32-dbccefee6aec" lang="srn">
+                <span xml:id="i-517025f8-f2aa-4765-b96d-2e1f80f1c21e">Weijfie</span>
+                <span xml:id="i-32c9097f-2281-40f4-af5e-e04e77da3214">Vrouw</span>
+            </p>
+            <p xml:id="i-7b5ea684-ddfc-41f7-a2f9-a44a4af3d3e2" lang="srn">
+                <span xml:id="i-91d11e54-678e-4b9e-be7d-51a15fcb2e07">Man</span>
+                <span xml:id="i-7780a5e0-fb62-4075-bb92-1a0335ee0d73">Man</span>
+            </p>
+            <p xml:id="i-2bb5767e-d535-43a2-b90e-caf2383aa896" lang="srn">
+                <span xml:id="i-b69c5f34-d369-4f10-bb30-d6ace2b2c3ac">da him reeti man</span>
+                <span xml:id="i-9c519e03-05eb-4c77-8d4f-67cb36382667">dat is haar regte Man</span>
+            </p>
+            <p xml:id="i-e3784ff9-2e43-4f52-8b1b-a43cce424b84" lang="srn">
+                <span xml:id="i-31531a41-fd9a-40a1-8d40-eecfeb9b3761">dat him Souta</span>
+                <span xml:id="i-14deaf68-5205-474b-b9e7-de99649cb576">t'is haar of zijn bijzit</span>
+            </p>
+            <p xml:id="i-40b29e29-5583-43e7-be41-88fdf9bac788" lang="srn">
+                <span xml:id="i-12b1e408-57e7-44ce-9e15-44d8ddbf5468">ook zeggende</span>
+                <span xml:id="i-1b660f61-f5ae-48e9-a0d2-04b06509b5dd">a de wakka langa him</span>
+            </p>
+            <p xml:id="i-ab6cd587-4993-4e1a-866a-d55e4fbe10a1" lang="srn">
+                <span xml:id="i-1209c243-eda4-4570-bf85-2ae9e81bd5f3">zij of hij gaat of loopt met hem of haar</span>
+            </p>
+            <p xml:id="i-c915e681-6b63-4f27-a29a-b2a0853311ca" lang="srn">
+                <span xml:id="i-21ae98d2-c2a5-467b-834f-f01776c61a93">a fourfouro langa him</span>
+                <span xml:id="i-e5cb4fd8-3f7f-4309-837e-3e2855a17c6c">hij of zij steelt met hem of haar</span>
+                <note xml:id="i-6f70ce64-2820-4a49-8474-eaad7c4a3daf">om te zeggen, dat zij of hij met een ander Vrouw of man concubineert</note>
+            </p>
+            <p xml:id="i-1e0561f0-b6fc-4e37-a553-ef23365182cf" lang="srn">
+                <span xml:id="i-06774a3f-f4b7-4e8d-b2a0-7f888d8d643e">jou wanti</span>
+                <span xml:id="i-95e545a5-0fa5-46b5-bef0-1a4b759ed5e6">wilje</span>
+            </p>
+            <p xml:id="i-bc13cd62-fcc2-4f95-b839-efe4785767aa" lang="srn">
+                <span xml:id="i-5c4bd919-04e6-4cc3-af8d-ba272fdff876">jou wanti mi</span>
+                <span xml:id="i-b1e19166-f6ce-4ead-813f-6a1e89ae43c7">wilje mij hebben</span>
+            </p>
+            <p xml:id="i-da681128-452e-474c-afb2-5dc0a4ce0c18" lang="srn">
+                <span xml:id="i-af4bc226-5c91-493a-be91-1205e3ecf9eb">mi wanti jou</span>
+                <span xml:id="i-24d207f5-f5cd-4698-b2c7-4aefc7b56e9f">ik wilje</span>
+            </p>
+            <p xml:id="i-1592e390-9f76-4e3a-a8c7-6cebd243554d" lang="srn">
+                <span xml:id="i-bc57e3fc-2427-4b8c-aeaf-52b6580fdb0f">Nembre</span>
+                <span xml:id="i-f78af32e-cfa3-44d5-91c4-f2874c16e2f5">nooit</span>
+            </p>
+            <p xml:id="i-0f586bfe-8e59-4b78-94cb-1d5084ae642c" lang="srn">
+                <span xml:id="i-f43b092b-bb2f-457f-902d-e3461db878fb">nembre wantem</span>
+                <span xml:id="i-b2e5bcb0-ccf8-491b-82e1-f19ddf515ea7">nimmer meer tergeener tijd</span>
+            </p>
+            <p xml:id="i-89d9f14b-2838-4630-b41f-4def78213a09" lang="srn">
+                <span xml:id="i-3c88aeeb-e10a-46be-8e76-9fb07b997c8f">allatem</span>
+                <span xml:id="i-be6884b2-1cee-48cb-be3f-6e4dcee2954f">altijd</span>
+            </p>
+            <p xml:id="i-5c7bb646-fc87-47a6-8429-261bc907a427" lang="srn">
+                <span xml:id="i-275f67e2-00fa-48f7-b8c8-bee29c073d57">a kom hia allatem</span>
+                <span xml:id="i-dca60bed-a0d2-4d46-9ac8-2f2cb3fb3ca4">hij komt hier altijd</span>
+            </p>
+            <p xml:id="i-48535a8e-7cc7-4e09-84c8-bf8e726a28ee" lang="srn">
+                <span xml:id="i-d63a3f2a-60f7-44ca-b2d5-6dfb28bb5c96">Somtem</span>
+                <span xml:id="i-d6b7bc58-2221-4e70-951f-e63afdd063ed">altemets zomtijds</span>
+            </p>
+            <p xml:id="i-f8ba3d9c-93c1-422a-951e-d93ee77f4642" lang="srn">
+                <span xml:id="i-09804a94-1288-4a0b-b279-676c78f4997c">noffo trom</span>
+                <span xml:id="i-ce2edd93-92c8-459f-af3f-99a42f22cc25">dikwils genoeg</span>
+            </p>
+            <p xml:id="i-17b70c83-6cdb-46ba-b4c1-054b9b7a4555" lang="srn">
+                <span xml:id="i-99494cb3-049b-49e2-9446-33938df45548">queti</span>
+                <span xml:id="i-4d9438ac-6e69-4b86-bbfc-dc42d3c0358a">heel</span>
+            </p>
+            <p xml:id="i-e5aad4a4-64c3-4736-a05f-bf92e398cce9" lang="srn">
+                <span xml:id="i-d3ec00e1-8139-47a5-b82c-a1e7fe80113a">alla</span>
+                <span xml:id="i-a012ec02-c18b-4277-ba04-7739d5e7e4bb">alles</span>
+            </p>
+            <p xml:id="i-005f245a-8e5e-4523-8731-2c8aabe17774" lang="srn">
+                <span xml:id="i-995688bc-a7e4-485d-8aad-dac879121efd">quetiqueti</span>
+                <span xml:id="i-d51a625c-c77e-4bfd-a474-2581c917d4d3">healen al, altemaal</span>
+            </p>
+            <p xml:id="i-080ae9e6-b391-4603-bbf0-b97540b56be7" lang="srn">
+                <span xml:id="i-79e61e4b-5f47-43f3-9253-eb768b2c2b04">hey</span>
+                <span xml:id="i-bd99c204-4e90-461e-97b0-15fe2a50c591">hoog</span>
+            </p>
+            <p xml:id="i-c2a59488-28bc-4108-a457-4ead25ed5a94" lang="srn">
+                <span xml:id="i-d1f86566-3c49-479e-b440-90c7b855e3f5">tupoe</span>
+                <span xml:id="i-b67ba5cb-23bc-464e-8b28-b36fa6825397">boven</span>
+            </p>
+            <p xml:id="i-05f28bf9-6b37-4762-b638-1c3f91f6e028" lang="srn">
+                <span xml:id="i-b956bc6c-b710-4808-a59f-c8bc1991c5e4">adea na tappoe</span>
+                <span xml:id="i-4087e337-beb6-489d-90e6-5e55a0ac6a37">t'is boven, hij is boven</span>
+            </p>
+            <p xml:id="i-47eeedc0-2352-42c8-bb82-1bb576440295" lang="srn">
+                <span xml:id="i-c3633312-9fad-470a-9e12-d3678f1f8eb7">tappa</span>
+                <span xml:id="i-b848e8f6-d3d7-49be-b2bf-c9d3e5616a1c">dekzel</span>
+            </p>
+            <p xml:id="i-a72c79c8-957e-41b3-a975-2c2c78415fb4" lang="srn">
+                <span xml:id="i-7a399b60-e700-4746-ad93-1687cb739934">atap hem</span>
+                <span xml:id="i-172f0863-b0a9-4202-a44b-c84d3db8e20c">zij of hij dekt 't</span>
+            </p>
+            <p xml:id="i-942236c8-40f1-4624-b92e-b677cc84cb48" lang="srn">
+                <span xml:id="i-e0185ff3-fb65-4907-a460-953ca0616792">bilo of ondro</span>
+                <span xml:id="i-49bc93ba-f35e-41cf-b61f-4f8fa44b05a7">beneede, onder</span>
+            </p>
+            <p xml:id="i-e43e001a-91a1-427c-a581-43a84c6ae069" lang="srn">
+                <span xml:id="i-11fc9d91-58fa-4e34-bb3a-efda344d5753">ago a wakka</span>
+                <span xml:id="i-3b3c5508-ab9f-4122-8f71-f60174f00752">hij gaat</span>
+            </p>
+            <p xml:id="i-6455d424-ef8f-4216-95b2-5cf4cbcb9996" lang="srn">
+                <span xml:id="i-e52cca0e-c63b-42c7-865f-42377eb86076">ago na tapoe</span>
+                <span xml:id="i-64ae3c59-27d9-4078-afe6-da40ae118009">hij gaat na boven</span>
+            </p>
+            <p xml:id="i-6c3425a7-6e7e-45e5-b8dc-dc77f97bee41" lang="srn">
+                <span xml:id="i-fc6893bb-ecf1-417e-ab67-15ad98515e24">wakkago</span>
+                <span xml:id="i-0d52a640-0793-43cb-ba3e-70b77b81b960">gaat heen</span>
+            </p>
+            <p xml:id="i-8c70accd-49d1-46ba-be95-2222154be643" lang="srn">
+                <span xml:id="i-72384648-5934-426f-9e66-13bb84f57dc5">akom adekom</span>
+                <span xml:id="i-15ffb163-ec07-4b64-af12-72b648775c85">hij of zij komt</span>
+            </p>
+            <p xml:id="i-fd116247-aceb-40c8-b3eb-ae3c9acd7be8" lang="srn">
+                <span xml:id="i-d2f0dfe6-07b8-4b06-97bd-564f6a1a7794">dissi wiki</span>
+                <span xml:id="i-1b32ec81-b81e-4a92-85db-28c78015c5ce">deeze week</span>
+            </p>
+            <p xml:id="i-3904576b-e8af-44b5-a8b2-6c1b4198a567" lang="srn">
+                <span xml:id="i-fd23667f-c194-4b27-b7c2-f5dc404108f5">dissi tem</span>
+                <span xml:id="i-e4bcc3b4-525d-401e-97a8-52b556c7b3e4">deeze tijd</span>
+            </p>
+            <p xml:id="i-ee866a71-6288-4e1e-a15a-d8b96f1c4301" lang="srn">
+                <span xml:id="i-3e750647-bc77-4714-8e61-e31474b43b29">dissi ma mantem</span>
+                <span xml:id="i-311c9b7c-988c-4a89-b031-5f92794abf7c">van deze morgen</span>
+            </p>
+            <p xml:id="i-b64648d5-5355-4eb4-9ab2-f47d632c8bdf" lang="srn">
+                <span xml:id="i-4302a69e-91d4-43bd-abcd-91d13fb78dd9">isterdeij</span>
+                <span xml:id="i-bbfb5fd7-a855-4feb-a0d9-2997b7a3343e">gisteren</span>
+            </p>
+            <p xml:id="i-6749c9e5-338b-474b-b1d1-77f04937c3b3" lang="srn">
+                <span xml:id="i-dfc3c0f0-2f25-4de7-9b37-4b87ab653b4c">Moen</span>
+                <span xml:id="i-c594292d-c034-4bcd-94eb-d92b5c55674d">Maan of maand</span>
+            </p>
+            <p xml:id="i-b1d67402-9fb5-4dee-8827-2edd5500c7bc" lang="srn">
+                <span xml:id="i-af34f579-0ff3-4904-91a0-93db2b194e37">tara moen</span>
+                <span xml:id="i-ee7a378a-8b96-4104-b5e5-83cb0ae0b41f">ande Maand de volgende</span>
+            </p>
+            <pb/>
+            <note xml:id="i-e30195db-2300-4234-9462-7969fd1776e0" type="pageNr">
+                278
+            </note>
+            <p xml:id="i-7fc26696-4b83-4c87-b1ed-42740ffd77b1" lang="srn">
+                <span xml:id="i-181c94d8-955a-4c6a-ad0d-55bd200b5c26">wan tron wan tron</span>
+                <span xml:id="i-a693c325-fbc3-4b43-90b1-d9fc40add256">nu en dan 	enkelde maalen</span>
+            </p>
+            <p xml:id="i-bb866cad-8374-4761-9305-4a27f4da0008" lang="srn">
+                <span xml:id="i-d35c922b-b544-426a-9c57-d653fb6e5c4d">wan</span>
+                <span xml:id="i-f4f25053-2a03-49e8-bb3b-bd47cd383f9b">Een</span>
+            </p>
+            <p xml:id="i-0286f16c-c123-44e7-ac21-10045a5aeef9" lang="srn">
+                <span xml:id="i-fd0d44f0-fcc0-413c-bacf-c54ab46036e4">toe</span>
+                <span xml:id="i-e5581e73-f023-454d-a485-df3aadfef140">twee</span>
+            </p>
+            <p xml:id="i-08394bcb-beb7-4e35-ac9c-75441c9c8958" lang="srn">
+                <span xml:id="i-ae6357b1-490c-46e8-81f3-61b6ec1102ef">dri</span>
+                <span xml:id="i-df4784b7-76e0-426d-b020-73cad305e264">drie</span>
+            </p>
+            <p xml:id="i-167b1db4-da8e-4db1-a09a-a644d6eb180e" lang="srn">
+                <span xml:id="i-be356727-0c09-4991-9775-c615aa15067e">fo</span>
+                <span xml:id="i-3bb781dc-ee17-484e-8552-a05c8b3fbfa3">vier</span>
+            </p>
+            <p xml:id="i-be93ad89-62ec-401b-afc8-af8aa4166840" lang="srn">
+                <span xml:id="i-a4ef9a8e-cfdd-4a00-b5dc-e1a336c03d1e">vyffie</span>
+                <span xml:id="i-a8367727-1b8e-4384-b2e8-56a0dde9cb99">vyf</span>
+            </p>
+            <p xml:id="i-b30d2cf1-0dca-443a-b999-3ac086bd3f24" lang="srn">
+                <span xml:id="i-c7d46e47-b4b1-492c-8972-cea69ae79b4b">Sekisie</span>
+                <span xml:id="i-4c3eeb68-438e-4de1-8ed7-7b0f2a564b39">ses</span>
+            </p>
+            <p xml:id="i-9e254f88-fd65-4c03-ae30-1c0f375c1e9f" lang="srn">
+                <span xml:id="i-5f1e1605-5cf7-4631-b264-ec250867f6ae">Sebien</span>
+                <span xml:id="i-bc8239c7-57d5-4664-8174-ce302c3bcdc0">zeeven</span>
+            </p>
+            <p xml:id="i-62e4c7f9-0121-4180-8e72-197c3d912edd" lang="srn">
+                <span xml:id="i-ef42fc0e-109e-424e-8f9f-4e289c6375bb">Aitie</span>
+                <span xml:id="i-a38cf961-61cd-49a0-8d0c-b19772fa7c2a">agt</span>
+            </p>
+            <p xml:id="i-51e04b4f-5828-44ae-7f6e-a45cfb58d371" lang="srn">
+                <span xml:id="i-e67512c7-7c68-40e4-a596-8f8bb7729e09">Negien</span>
+                <span xml:id="i-b250f92a-4ee9-47df-b3c8-1b68dd68cc75">Negen</span>
+            </p>
+            <p xml:id="i-bb3f64dd-f7b7-4d88-9b0c-8264c404580c" lang="srn">
+                <span xml:id="i-5d6113e7-b73c-4188-8477-d78f686c0496">tien</span>
+                <span xml:id="i-81426b77-c9ce-4d4f-b2a1-5c3c9eb14ae0">tien</span>
+            </p>
+            <note xml:id="i-d8dab273-0dc2-40bc-955e-1812fc8c5b8b">
+                dan
+            </note>
+            <p xml:id="i-92ba94a1-38a2-4cda-ad8a-ce92e97d8d12" lang="srn">
+                <span xml:id="i-d49fe7e4-973e-432f-849f-163f09f433ae">tien na wan</span>
+                <span xml:id="i-422235c9-28e7-4740-b98b-af0c98f2f50e">elf</span>
+            </p>
+            <p xml:id="i-48c429fc-5dad-4654-9482-f725bdd14ccd" lang="srn">
+                <span xml:id="i-af7c9d48-64bb-4322-8677-659fd5181c0e">tien na toe</span>
+                <span xml:id="i-bd3b43ee-67e4-4577-8321-a56f336f9241">twaalf</span>
+            </p>
+            <p xml:id="i-b776628b-5f5f-4ffa-bd84-dff842a4a037" lang="nld">
+                <span xml:id="i-b4040dfc-11c8-49de-a0a1-345d62b59ee9">en zo voorts tot twinting</span>
+            </p>
+            <p xml:id="i-f0248b06-d804-414f-831e-273f4594de18" lang="srn">
+                <span xml:id="i-1886e1e2-2937-4c11-9311-579886627f76">twinting na wan</span>
+                <span xml:id="i-c58e377e-58db-4dee-b9a4-ee1fbd14f11f">een en twintig</span>
+            </p>
+            <p xml:id="i-6d9f78cc-912b-4aad-a7c0-49074772fc3c" lang="srn">
+                <span xml:id="i-facae119-e7b0-4699-8954-acf29ecc9c57">twinting na toe</span>
+                <span xml:id="i-5a873abe-e042-4397-b82d-99109162d588">twee en twintig</span>
+            </p>
+            <note xml:id="i-c4270f22-95c2-4c00-ab26-eb1bcd9cf34e">
+                en zo voorts tot
+            </note>
+            <p xml:id="i-93be6f39-18c4-4627-9d43-f215f02aad66" lang="srn">
+                <span xml:id="i-54452915-33f0-4a6b-b24c-8f8dd7b9c2bf">dritien</span>
+                <span xml:id="i-60165e53-b816-4f6e-bebf-62cb51e4a50d">dertig</span>
+            </p>
+      <p xml:id="i-4f2d8f1d-7e0e-42d2-8e80-760ae38bbfba" lang="sr-SR">
+        <span xml:id="i-78b622a0-3f45-43dd-9481-61b528636da6" lang="sr-SR">fotien</span>
+        <span xml:id="i-3de508a2-2986-4496-b03b-dfd3e0e7b457" lang="nl-NL">veertig</span>
+      </p>
+      <p xml:id="i-8db15eaa-b7aa-4422-9e86-bfae6a65a1ef" lang="sr-SR">
+        <span xml:id="i-a7c531c6-f763-4e06-9a3f-1fc7519495b0" lang="sr-SR">vijfietien</span>
+        <span xml:id="i-e6845424-da18-43f5-99da-b82d17047563" lang="nl-NL">vijftig</span>
+      </p>
+      <note xml:id="i-a269f774-b021-4b79-aee8-4c5dc1f7bb53" lang="nl-NL">enz.</note>
+      <p xml:id="i-58e8332a-2b44-4d97-b3bd-ec53d23a580f" lang="sr-SR">
+        <span xml:id="i-71084c8a-303b-43e8-938e-ebe157cf22cc" lang="sr-SR">Oemeni de?</span>
+        <span xml:id="i-6f3c1bc4-ec3e-4c9f-880b-982f33daf67e" lang="nl-NL">hoeveel zijn er?</span>
+      </p>
+      <p xml:id="i-2f78a504-75e6-461c-82c1-2e93ef53ea9f" lang="sr-SR">
+        <span xml:id="i-b3a83fa6-5fee-499b-bfc5-9b30b6fe8b86" lang="sr-SR">taki</span>
+        <span xml:id="i-e5eb28a4-3553-48cb-b641-e1b6eaf3f241" lang="nl-NL">Spreekt</span>
+      </p>
+      <p xml:id="i-67a669b6-2a6e-4be8-9b61-7081a0e5e473" lang="sr-SR">
+        <span xml:id="i-73390c4c-1ffe-4c86-bf4e-00da9e3ced65" lang="sr-SR">jari</span>
+        <span xml:id="i-7fa36fd5-405b-4ad9-99a1-1686ef825ea2" lang="nl-NL">jaar</span>
+      </p>
+      <p xml:id="i-dce9444e-29b1-4739-af78-c23e0ef0f4f3" lang="sr-SR">
+        <span xml:id="i-f8ed9046-9882-4a7d-b07e-6602e5ef19b8" lang="sr-SR">hoe tem?</span>
+        <span xml:id="i-7a9ae565-dfd5-4afa-af22-b56cd1cdde64" lang="nl-NL">wanneer?</span>
+      </p>
+      <p xml:id="i-3465b6ed-1115-4b16-84a1-ecb73f79a489" lang="sr-SR">
+        <span xml:id="i-8f947bdf-781f-48bc-bba1-9b0ef0ba5e92" lang="sr-SR">allatem</span>
+        <span xml:id="i-0cb04d4e-e993-4932-85f1-5ccf665f5b79" lang="nl-NL">altijd</span>
+      </p>
+      <p xml:id="i-09a54830-9b12-4054-ad71-8420c7ebc8c2" lang="sr-SR">
+        <span xml:id="i-8741df54-ac56-4c69-908d-3ccad0e5e65c" lang="sr-SR">kom</span>
+        <span xml:id="i-325b950a-8f4b-4ee4-a28a-5e6b90da0b9d" lang="nl-NL">komt</span>
+      </p>
+      <p xml:id="i-3b3b91d1-29ce-41d1-8fb1-4f7233900c7e" lang="sr-SR">
+        <span xml:id="i-b4381473-84d8-4e17-b981-7cb8f78331ed" lang="sr-SR">kon hiaso</span>
+        <span xml:id="i-47294d20-5fc9-49da-84ee-ff3a85583793" lang="nl-NL">kom hier op deze plaats</span>
+      </p>
+      <p xml:id="i-c3e80a3c-8d55-4c34-a8c4-2ff7524388d5" lang="sr-SR">
+        <span xml:id="i-bea9e37e-590b-4c89-be5c-b8a99a71c3e4" lang="sr-SR">na dissi Seij</span>
+        <span xml:id="i-902b2fcf-40cc-4acb-b71e-8f5362b63995" lang="nl-NL">op deeze zyde</span>
+      </p>
+      <p xml:id="i-e9094ff1-f502-4e0a-b362-318694d93cd3" lang="sr-SR">
+        <span xml:id="i-9857ef04-11ae-4f4a-b6aa-d09e89e77bc9" lang="sr-SR">a go</span>
+        <span xml:id="i-5aad48a8-833f-4edc-8a12-c6946aa89b37" lang="nl-NL">hij gaat</span>
+      </p>
+      <p xml:id="i-c34b26eb-bfae-4083-8956-ed27b5dfedb4" lang="sr-SR">
+        <span xml:id="i-4ae3d10d-490f-46c7-b282-7ece6c938073" lang="sr-SR">a bin go</span>
+        <span xml:id="i-af8974d4-fd51-49cf-b604-8c5acd99cb7e" lang="nl-NL">hij is gegaan</span>
+      </p>
+      <p xml:id="i-7363f481-fe7e-4b41-b5a9-18045603030a" lang="sr-SR">
+        <span xml:id="i-679baccb-e87c-4575-9e59-496e4f84c230" lang="sr-SR">na hoe plesi</span>
+        <span xml:id="i-bd00fa28-9536-4da0-96fb-a694d90f610f" lang="nl-NL">na wat plaats waar na toe</span>
+      </p>
+      <p xml:id="i-dd016371-0805-41bb-84bf-addaaa4cdf81" lang="sr-SR">
+        <span xml:id="i-cc5d2e5c-e7a0-40b9-bd7c-4c639b07aba0" lang="sr-SR">na hoe sey joe de go</span>
+        <span xml:id="i-fc94e067-589c-4fe2-9d68-e612d482edfc" lang="nl-NL">aan wat kant ga je</span>
+      </p>
+      <p xml:id="i-e4592ee1-40e1-4203-b75c-49cf9f0dc035" lang="sr-SR">
+        <span xml:id="i-f2043aac-51a1-4d60-80c9-1cf0b1ad0da6" lang="sr-SR">na dissi Seij</span>
+        <span xml:id="i-e96aad66-d3c7-4274-b3bc-260d4b51b31f" lang="nl-NL">aan deze kant</span>
+      </p>
+      <p xml:id="i-6f75290b-d53b-4829-81ba-5467f2b75cd6" lang="sr-SR">
+        <span xml:id="i-db0f4044-cfce-4b4b-b177-45e7094f02cf" lang="sr-SR">Bakkara</span>
+        <span xml:id="i-b44def3e-8b38-4e80-82ba-c0430373206e" lang="nl-NL">blanke</span>
+      </p>
+      <p xml:id="i-1b06f62d-5b9a-4f85-8052-eb05cb9e614a" lang="sr-SR">
+        <span xml:id="i-ca798bd0-36b2-49ff-a092-b6a5a940bd73" lang="sr-SR">Ningre</span>
+        <span xml:id="i-4b24e8e1-130e-4201-a778-8cf985751434" lang="nl-NL">Neeger</span>
+      </p>
+      <p xml:id="i-2b14450a-d6a4-465a-831c-b9036dc4199b" lang="sr-SR">
+        <span xml:id="i-6f725219-ecf5-4694-b570-c922226ec9eb" lang="sr-SR">Bakkaraoeman</span>
+        <span xml:id="i-b9e2f27f-3cc8-4923-82e8-22f70d0f96fc" lang="nl-NL">blanke Vrouw</span>
+      </p>
+      <p xml:id="i-02d31716-dbe9-447e-b180-10fb50ed8da7" lang="sr-SR">
+        <span xml:id="i-8228b77b-cf91-438e-8de5-4c4c4f827f0d" lang="sr-SR">Nigroeman</span>
+        <span xml:id="i-1d9fa692-d9d2-4c1f-94de-61e959eec8ed" lang="nl-NL">Neegerin</span>
+      </p>
+      <note xml:id="i-fb627d89-4727-4c66-a388-60b3e4b8b017" lang="nl-NL">dog zij gebruiken ook een woord van sterker uytdrukking namentlijk</note>
+      <p xml:id="i-77e5969b-96f4-4de8-adb9-fc51f3cd1096" lang="sr-SR">
+        <span xml:id="i-54975188-eb1f-4967-a20d-8be8e37bfc00" lang="sr-SR">Catibo datie</span>
+        <span xml:id="i-8c41512c-e449-4ff1-a7e2-a318e5cc4b12" lang="nl-NL">onderdanige Slegte elendige</span>
+      </p>
+      <p xml:id="i-e0a596a2-a7c1-4bc4-bc26-a86203ecd6c5" lang="sr-SR">
+        <span xml:id="i-3e3dc9fc-50e8-4f0a-b060-6c6bcaf11871" lang="sr-SR">Ingien</span>
+        <span xml:id="i-b9cff74e-9606-473f-8c62-1da94e5ceee8" lang="nl-NL">Indiaan</span>
+      </p>
+      <p xml:id="i-71aa3c73-d35d-4699-8852-302ae6477e5a" lang="sr-SR">
+        <span xml:id="i-be5f580d-9f43-4749-b4f6-dc31b97d481e" lang="sr-SR">Malatta</span>
+        <span xml:id="i-ef1799a8-cb93-499a-bcbf-d1bff23ed174" lang="nl-NL">Mulat Mulattin</span>
+      </p>
+      <p xml:id="i-e17de673-9fd2-45bc-8ae0-abb84d94f4da" lang="sr-SR">
+        <span xml:id="i-3fe8cf72-190b-464b-81c3-0d3ac96a3f87" lang="sr-SR">Carboekloe</span>
+        <span xml:id="i-42438d81-2923-4cbd-ab2d-6cba0e3c4502" lang="nl-NL">Carboekel</span>
+        <note xml:id="i-97512d28-77c6-48b7-beca-b706ce74516e" lang="nl-NL">tusschen slag van een Neeger met een Indianin of met een Mulattin</note>
+      </p>
+      <p xml:id="i-18c4f5a2-df68-4c6f-92fa-93ee8db1a003" lang="sr-SR">
+        <span xml:id="i-d1c279ed-f843-49c3-b720-4b9b64479729" lang="sr-SR">Pleij</span>
+        <span xml:id="i-12e7eab0-5073-40aa-b435-d982d7c1d776" lang="nl-NL">een Spel</span>
+      </p>
+      <p xml:id="i-d055f597-fdb6-4e89-8c08-8f8acef55263" lang="sr-SR">
+        <span xml:id="i-e3b0184e-0532-4d47-89f7-2b2ab615fc57" lang="sr-SR">a meki pleij</span>
+        <span xml:id="i-171c4a84-d3e1-4cc5-94cd-12f48c977b0d" lang="nl-NL">hij of zij maken een spel,</span>
+        <note xml:id="i-c25181d6-362b-4fd5-a33a-680332e22086" lang="nl-NL">dat is, partij baljaaren</note>
+      </p>
+      <pb/>
+      <note xml:id="i-af547a5f-6e56-4e48-b74c-b81a8c761972">
+        279
+      </note>
+      <p xml:id="i-84ad1b87-c68e-460e-bb23-fc66f421d7b6" lang="sr-SR">
+        <span xml:id="i-9b4d7332-f526-4a42-8c86-3531c08634a6" lang="sr-SR">mino pleij</span>
+        <span xml:id="i-034008ed-186e-41bb-b101-059e4d1ecb72" lang="nl-NL">ik speel niet</span>
+      </p>
+      <p xml:id="i-cf5a24ea-f501-4917-9aa2-5e4ff28a86e1" lang="sr-SR">
+        <span xml:id="i-22c9851d-fbbb-44fa-bf0d-8ef6e3d49216" lang="sr-SR">a no pleij langa him</span>
+        <span xml:id="i-ed427b5d-6422-4930-8ab6-f5030ad725a7" lang="nl-NL">hij of zij speelt er niet mede</span>
+      </p>
+      <p xml:id="i-c5f87310-bf82-4e52-9514-e7a24239b5d5" lang="sr-SR">
+        <span xml:id="i-fc73407c-a02c-4339-bb3f-5aeecad8c2ed" lang="sr-SR">wandi</span>
+        <span xml:id="i-61f5725b-aaf0-4a41-9c09-97a659e63a79" lang="nl-NL">wandi willen</span>
+      </p>
+      <p xml:id="i-3b80b74f-302c-448c-9da0-b63b99f387b1" lang="sr-SR">
+        <span xml:id="i-3b82eec8-4f4d-49b4-ae5e-7c6025b9c4ff" lang="sr-SR">joe wandi?</span>
+        <span xml:id="i-53c422c3-e08d-4d5b-a445-183ea5f0b211" lang="nl-NL">wilje?</span>
+      </p>
+      <p xml:id="i-6de8b8d6-d4d9-4409-8520-0b818eb0666a" lang="sr-SR">
+        <span xml:id="i-75d49eae-ea61-4d37-bcf3-dd457ef16473" lang="sr-SR">joe no wandi</span>
+        <span xml:id="i-f9288ec7-f1a6-4353-bc23-0082728de948" lang="nl-NL">wilje niet?</span>
+      </p>
+      <p xml:id="i-e1f162c0-913c-47dc-bd19-d9e53611c09f" lang="sr-SR">
+        <span xml:id="i-049f0705-164b-4b60-b262-b905883cf5ae" lang="sr-SR">a no wandi</span>
+        <span xml:id="i-efede4a2-bc74-4b6f-b646-ad50229d8808" lang="nl-NL">hij of zij wilt niet</span>
+      </p>
+      <p xml:id="i-8ef36aca-8bba-4624-b26b-530b80ce0c2e" lang="sr-SR">
+        <span xml:id="i-ea16a145-f5f4-4e7b-970f-fb59c8037aa6" lang="sr-SR">boen</span>
+        <span xml:id="i-e94760f7-71f5-49de-8b82-9ec3f2caf593" lang="nl-NL">goed</span>
+      </p>
+      <p xml:id="i-b230c267-f58f-4c93-b0e8-fcbb8ee37568" lang="sr-SR">
+        <span xml:id="i-db1e8960-ec8b-4e05-bbc7-b64d301da9ad" lang="sr-SR">boen fortroe</span>
+        <span xml:id="i-3b4d2e58-fb07-4f69-b9d5-df730c8ae4d2" lang="nl-NL">zeer goed</span>
+      </p>
+      <p xml:id="i-84c00e81-e373-438b-85ae-57d76762b864" lang="sr-SR">
+        <span xml:id="i-ac78757d-2835-497c-bc0f-b14558f552bf" lang="sr-SR">biggi boen</span>
+        <span xml:id="i-06a3bc60-350d-4c9d-8dc9-0e570cb10621" lang="nl-NL">groot goed</span>
+      </p>
+      <p xml:id="i-4e3e5f0e-b43c-4ea7-ab1c-7aed4ae54871" lang="sr-SR">
+        <span xml:id="i-906377f3-eed1-4346-bc71-b340158ad602" lang="sr-SR">noboen</span>
+        <span xml:id="i-994de3f3-552d-4b1d-b5a2-679ac186e1f4" lang="nl-NL">niet goed</span>
+      </p>
+      <p xml:id="i-9343c1cb-472d-436e-936b-657c7904bff7" lang="sr-SR">
+        <span xml:id="i-a6347936-4b05-431d-8d89-10109971588b" lang="sr-SR">tara dei</span>
+        <span xml:id="i-9fc04499-077b-48c2-977e-d592c85c1e71" lang="nl-NL">ander dag, laatste maal</span>
+      </p>
+      <p xml:id="i-da5a8c01-90e3-4775-a310-3720d55316c9" lang="sr-SR">
+        <span xml:id="i-4cb3dbf0-7b71-464f-b25d-fe2edbc7f929" lang="sr-SR">noti</span>
+        <span xml:id="i-bbc04c09-3d30-4782-891b-b935b19fc956" lang="nl-NL">niets</span>
+      </p>
+      <p xml:id="i-00cc2f99-d232-4b36-b912-ef0c4a25f4f9" lang="sr-SR">
+        <span xml:id="i-fd61c6ca-4a49-4485-8389-3305a9108cea" lang="sr-SR">for noti soso</span>
+        <span xml:id="i-aaae7c45-2fc2-401e-b30f-e060904838d8" lang="nl-NL">voor nietmetal</span>
+      </p>
+      <p xml:id="i-59d672e3-a5c7-4125-b517-ee0480630c07" lang="sr-SR">
+        <span xml:id="i-5327c926-fd10-4e25-93f8-8c117f993582" lang="sr-SR">alla santi</span>
+        <span xml:id="i-c0e65184-dabf-445e-b396-77307c217701" lang="nl-NL">alles alle dingen</span>
+      </p>
+      <p xml:id="i-20750465-b39d-4bd3-9e19-6593e46d0589" lang="sr-SR">
+        <span xml:id="i-440f58fc-cec8-4a11-b72d-cd9117cbb01b" lang="sr-SR">toe moussi santi</span>
+        <span xml:id="i-c0d0dc3e-3bfe-45ca-8bab-414a3e237f36" lang="nl-NL">veel dingen</span>
+      </p>
+      <p xml:id="i-1bc29cb0-a43e-4380-8783-c0c60cecf982" lang="sr-SR">
+        <span xml:id="i-e35d8983-d8f3-491f-bf61-fbb4fc9b0cc7" lang="sr-SR">giem</span>
+        <span xml:id="i-1ab406bb-eb51-44df-bc15-4dc08f1226ed" lang="nl-NL">geeft</span>
+      </p>
+      <p xml:id="i-a86de776-037d-4177-aaf4-3d50a86881e4" lang="sr-SR">
+        <span xml:id="i-80569ab6-f38e-4f27-80a0-e2144aee8912" lang="sr-SR">gie mi</span>
+        <span xml:id="i-73ec1201-5cff-4761-9d7f-191fbe72e555" lang="nl-NL">geeft mij</span>
+      </p>
+      <p xml:id="i-6dfe6775-4e03-46a9-84f6-903e6904bf02" lang="sr-SR">
+        <span xml:id="i-1f1be1bf-69b1-4429-b787-df8a70833b53" lang="sr-SR">gie hem</span>
+        <span xml:id="i-3ca07a10-4c0f-4364-8a62-c61a827ab45d" lang="nl-NL">geeft hem of haar</span>
+      </p>
+      <p xml:id="i-efbbc8a3-4669-40b3-b12c-71dfcf5deb08" lang="sr-SR">
+        <span xml:id="i-e6d3a2fb-65bb-4cf6-ad87-ded08813c1aa" lang="sr-SR">teki</span>
+        <span xml:id="i-dd9b77d6-bcaa-4346-b395-e7339e0e0e6d" lang="nl-NL">neemt</span>
+      </p>
+      <p xml:id="i-cd1a84bc-4920-4c89-892e-75f63e70df59" lang="sr-SR">
+        <span xml:id="i-71516452-b9ca-401f-a3cb-c048bf9a60b2" lang="sr-SR">mi teki</span>
+        <span xml:id="i-3cf83490-91f8-44f2-b8c7-70147c8b614e" lang="nl-NL">ik neem</span>
+      </p>
+      <p xml:id="i-0fda038b-7c23-4260-aaf4-df189d69f3cb" lang="sr-SR">
+        <span xml:id="i-d44ee350-ad04-4ea4-8305-1426580eb0f1" lang="sr-SR">meki ateki</span>
+        <span xml:id="i-19a9c8f5-659b-4b36-b964-42d3032b57c7" lang="nl-NL">laat hem neemen</span>
+      </p>
+      <p xml:id="i-2fbd3b0c-00ed-41bc-b8f0-51dd7da487c2" lang="sr-SR">
+        <span xml:id="i-e5c471f2-1559-48b3-b4c4-596b33cc6e39" lang="sr-SR">kaba</span>
+        <span xml:id="i-dc9248af-119f-4fd6-b3c3-ec09c898540f" lang="nl-NL">laat staan</span>
+      </p>
+      <p xml:id="i-5572b4df-594e-4e39-ac73-67bac8efc9d0" lang="sr-SR">
+        <span xml:id="i-4694df6b-0c37-4edf-b8f4-8fb34bb23902" lang="sr-SR">meki atan</span>
+        <span xml:id="i-c723322b-3de5-407b-bc3f-2be50155a254" lang="nl-NL">laat 't blijven</span>
+      </p>
+      <p xml:id="i-53dbdc3c-be6c-4f92-82e6-9dd2aac16d5c" lang="sr-SR">
+        <span xml:id="i-5d03ae1e-0648-4a68-8345-fd19fec83494" lang="sr-SR">a kaba</span>
+        <span xml:id="i-537d9eb1-0597-4be0-b436-64ba042cda64" lang="nl-NL">t'is gedaan</span>
+      </p>
+      <p xml:id="i-5cf43ad1-82d5-4b49-b408-840761206381" lang="sr-SR">
+        <span xml:id="i-ef6610b7-ac62-44ba-85d3-24ad2bb6ea3c" lang="sr-SR">hessi</span>
+        <span xml:id="i-0801c8af-e6b4-49ad-a0a4-ff9370c742ac" lang="nl-NL">gauw schielijk</span>
+      </p>
+      <p xml:id="i-acc96676-21a1-4938-840e-cfce68ab6a44" lang="sr-SR">
+        <span xml:id="i-a79a5b4d-5585-48b2-9fd4-b778cb68ba10" lang="sr-SR">lesi</span>
+        <span xml:id="i-9b5e37ea-bc76-4b9c-b220-f6e799810851" lang="nl-NL">luij</span>
+      </p>
+      <p xml:id="i-3cdf774f-2dc2-4e83-b153-f6613a465270" lang="sr-SR">
+        <span xml:id="i-f026560c-7637-4743-8d88-9e3fa71aa471" lang="sr-SR">safti</span>
+        <span xml:id="i-bb1605b0-cedf-418e-90c3-17d3cbab5a93" lang="nl-NL">zagt, zoetjes, langsaam</span>
+      </p>
+      <p xml:id="i-3a0d02c1-e4e2-46d9-812f-ae8f907c378d" lang="sr-SR">
+        <span xml:id="i-a8f780da-a75e-4ca9-96bd-ec90984b83f7" lang="sr-SR">taki troe</span>
+        <span xml:id="i-7e5c80c0-bd1a-4ebd-87df-199c6d055ed6" lang="nl-NL">zegt waar zegt de waarheid</span>
+      </p>
+      <p xml:id="i-b9a7f640-651b-4fe0-a73a-5320a7fbbef5" lang="sr-SR">
+        <span xml:id="i-2a82afa1-2a5b-4f40-9e90-46c632b3f387" lang="sr-SR">takireeti</span>
+        <span xml:id="i-f7016c5d-0c85-460d-b93b-0d2e92943889" lang="nl-NL">zegt het regt</span>
+      </p>
+      <p xml:id="i-117ec6a9-3a74-4fee-af09-f7bd963ff755" lang="sr-SR">
+        <span xml:id="i-8ffa450d-cc4e-4e9f-895e-1df1eafbb7eb" lang="sr-SR">tappoe moffo</span>
+        <span xml:id="i-0df581c3-b531-4d45-98ab-320b7c171c94" lang="nl-NL">houdje mond toe, zwijgt</span>
+      </p>
+      <p xml:id="i-b207ca3f-b900-44c4-beea-c4a2e0e1c3b2" lang="sr-SR">
+        <span xml:id="i-7911a559-658d-4fa6-b9aa-ebd4df14f9c2" lang="sr-SR">notaki notti</span>
+        <span xml:id="i-539aef8b-4c92-470f-82f1-39592c16d00e" lang="nl-NL">segt niets</span>
+      </p>
+      <p xml:id="i-86c5729e-a07f-45dd-b329-ff05ea02719f" lang="sr-SR">
+        <span xml:id="i-b739ba25-ee69-4148-a5c0-20567d70f152" lang="sr-SR">abin taki</span>
+        <span xml:id="i-b80e2b94-e864-49e6-8b49-bf73b165c920" lang="nl-NL">hij heeft gezegt</span>
+      </p>
+      <p xml:id="i-220c5017-5515-4e88-8652-f0488a489dcb" lang="sr-SR">
+        <span xml:id="i-b30f735a-8cb4-43ee-9861-b0fe23070272" lang="sr-SR">abin taki so</span>
+        <span xml:id="i-f94dc9af-6251-4461-a5e8-f45de3bc9e37" lang="nl-NL">hij heeft zo gezegt</span>
+      </p>
+      <p xml:id="i-f94fc2b4-ed56-4dd5-bd24-0f95aae1ff84" lang="sr-SR">
+        <span xml:id="i-3324b998-af84-48da-bb2e-ff27d44162a8" lang="sr-SR">ti dea</span>
+        <span xml:id="i-0fcacb14-badc-413b-bb37-753e2e374da5" lang="nl-NL">van daag</span>
+      </p>
+      <p xml:id="i-e46f5bed-8bff-4677-bbcb-3dbba46c3d71" lang="sr-SR">
+        <span xml:id="i-fb2cf497-2e09-4128-a6db-c285372154fa" lang="sr-SR">ta mara</span>
+        <span xml:id="i-fa1cbabe-92e3-4d1b-a4c8-6917b153283c" lang="nl-NL">morgen</span>
+      </p>
+      <p xml:id="i-0f9c1a03-64d6-4b5d-81a2-b17fda7a095d" lang="sr-SR">
+        <span xml:id="i-afedabe2-f302-4501-a612-e493f43c2490" lang="sr-SR">tara tamara</span>
+        <span xml:id="i-2f5714d3-de7f-45ed-b3ed-626f6c1e3586" lang="nl-NL">overmorgen</span>
+      </p>
+      <p xml:id="i-6e1e84ea-dea8-45ca-9400-57a5437aa6ef" lang="sr-SR">
+        <span xml:id="i-90ffed9f-d8a7-4b59-bcb0-0073b83c9513" lang="sr-SR">wiki</span>
+        <span xml:id="i-40962b67-8adc-49b0-b25e-4e6175c47fec" lang="nl-NL">week</span>
+      </p>
+      <p xml:id="i-e3b07c5c-ed06-4c68-a597-3708d6823e52" lang="sr-SR">
+        <span xml:id="i-6459f500-2ea2-458e-bc4a-7b82eb4e0c80" lang="sr-SR">tara wiki</span>
+        <span xml:id="i-ffaf8ae3-4c59-4372-81bd-9c1e5e3bd817" lang="nl-NL">de andere week</span>
+      </p>
+      <p xml:id="i-e3b2608c-d927-4cfb-aff9-dd2319799c5e" lang="sr-SR">
+        <span xml:id="i-0f393c2a-f579-44b7-8663-1cc6b869d588" lang="sr-SR">a membri mi</span>
+        <span xml:id="i-235f1d7b-3a93-498c-9998-dc2be70034a8" lang="nl-NL">hij of zij denkt 'er om</span>
+      </p>
+      <p xml:id="i-3dc76e80-f392-4737-91c0-c5efec703cb8" lang="sr-SR">
+        <span xml:id="i-01d9293d-0e51-41ad-9698-925fc5d4f742" lang="sr-SR">a de membre</span>
+        <span xml:id="i-3458c186-0768-427d-993e-af97cf6741a0" lang="nl-NL">hij of zij denkt</span>
+      </p>
+      <p xml:id="i-4077f459-bc7b-4016-bb1c-db3dd8c6a02c" lang="sr-SR">
+        <span xml:id="i-df8e9be4-5cf5-4e30-becf-57c69697c1de" lang="sr-SR">heddi</span>
+        <span xml:id="i-dd264cfb-dea0-41fd-b2cf-2612db842e57" lang="nl-NL">hooft</span>
+      </p>
+      <p xml:id="i-47847b7f-cfe3-4e2f-bc44-227b428e4e05" lang="sr-SR">
+        <span xml:id="i-416fa371-29c5-4bf9-a188-5b882edcd45d" lang="sr-SR">a de nami heddi of mi membre</span>
+        <span xml:id="i-fb70b9cf-bb9f-43cf-b69d-f173b965b4b1" lang="nl-NL">t'is in mijn hoofd om te zeggen, ik denk 'er om</span>
+      </p>
+      <p xml:id="i-21ea6d78-f4ea-4918-80ff-628d287e0107" lang="sr-SR">
+        <span xml:id="i-d7914f06-c359-4f53-a163-fb8c69731b7e" lang="sr-SR">hatti</span>
+        <span xml:id="i-ed16b38e-264f-4e83-b07d-057d68e5c4a8" lang="nl-NL">'t hert ook een hoed</span>
+      </p>
+      <p xml:id="i-3ac93cb7-bb34-4da1-b1d1-8cc5c1b82a5a" lang="sr-SR">
+        <span xml:id="i-e36f33f2-9973-46c4-b58e-ca1ae68f7343" lang="sr-SR">bakka</span>
+        <span xml:id="i-42d049b9-5186-42f9-8e69-d3b3efc318ba" lang="nl-NL">rug</span>
+      </p>
+      <p xml:id="i-4e59d4c2-5f34-439f-a79a-21b67c41b520" lang="sr-SR">
+        <span xml:id="i-bff8c3af-fa6b-4a1e-935c-ab739c403b6b" lang="sr-SR">na bakka</span>
+        <span xml:id="i-55bc88f3-6a98-45fc-b68d-e6250556b564" lang="nl-NL">na agteren</span>
+      </p>
+      <p xml:id="i-b13f8d4d-4572-4377-ae62-a6cf4e27581c" lang="sr-SR">
+        <span xml:id="i-eff1e5a5-d79d-4eb1-9af9-50da6ea0dde3" lang="sr-SR">rasi</span>
+        <span xml:id="i-5ef0f8a1-f2c9-4311-84d5-0807fbdfd995" lang="nl-NL">gat billen</span>
+      </p>
+      <p xml:id="i-d65f12f6-d39f-4d06-8e4b-fe018bbc8306" lang="sr-SR">
+        <span xml:id="i-db7a8b8c-122c-4077-ab22-bca7122f5f0c" lang="sr-SR">han</span>
+        <span xml:id="i-0962d92c-7d5e-42d9-8ad7-e769bb9778fc" lang="nl-NL">hand</span>
+      </p>
+      <p xml:id="i-61c4661d-28dc-42ec-9f72-5a7c68bbd72e" lang="sr-SR">
+        <span xml:id="i-fc8ad173-3352-438d-bcb7-f002778e4684" lang="sr-SR">foetoe</span>
+        <span xml:id="i-9710cc60-23aa-4321-bbcf-bb29de984f1b" lang="nl-NL">voeten</span>
+      </p>
+      <p xml:id="i-d04dc2b5-6195-4fc8-8a42-16b1e19ecdba" lang="sr-SR">
+        <span xml:id="i-490928d1-763a-490b-a232-4703ac5fd0dd" lang="sr-SR">finga</span>
+        <span xml:id="i-db1cb711-3f50-4b62-b522-d0f102b50778" lang="nl-NL">vingers</span>
+      </p>
+      <p xml:id="i-0169c736-0bd1-4023-84e7-2c0a6e8c234d" lang="sr-SR">
+        <span xml:id="i-273e6519-5dad-4235-b5e5-e8e0e6ea09cf" lang="sr-SR">nangla</span>
+        <span xml:id="i-1602edb1-bfeb-4274-95bd-9ed2954ebd20" lang="nl-NL">nagels</span>
+      </p>
+      <p xml:id="i-9b691b67-4095-4ffb-b8b1-52f6b135fbc4" lang="sr-SR">
+        <span xml:id="i-d3c370ff-f83d-4fd8-b9cf-a576887bc121" lang="sr-SR">moffo</span>
+        <span xml:id="i-f4ae65c8-b11b-407b-993e-fe7b672e1bd9" lang="nl-NL">mond</span>
+      </p>
+      <pb/>
+      <note xml:id="i-e60a1f09-b8e9-40b0-8f44-fd726aa9f736">
+        280
+      </note>
+      <p xml:id="i-37c19482-f356-4b27-bcb4-5a4aa5cb4b8c" lang="sr-SR">
+        <span xml:id="i-e1883832-fc42-483d-bb0e-5edd22daab81" lang="sr-SR">fleij</span>
+        <span xml:id="i-0d1affc7-e22f-4470-bbad-b0cdb8c64c61" lang="nl-NL">een vlieg vleugels</span>
+      </p>
+      <p xml:id="i-14b6584f-d5aa-4dba-92c4-afff2b7e001c" lang="sr-SR">
+        <span xml:id="i-150c186e-e929-48f4-a2e7-6e946ad209ff" lang="sr-SR">faya</span>
+        <span xml:id="i-bfbef174-fa57-49f6-cli3-526897b12532" lang="nl-NL">heet warm</span>
+      </p>
+      <p xml:id="i-c823946d-f8ea-48fd-84e4-4f12b6b59be6" lang="sr-SR">
+        <span xml:id="i-b077d5a6-dd43-4529-b194-8c6440603cbd" lang="sr-SR">a hatti fortroe</span>
+        <span xml:id="i-0f8962d4-fdb3-44dc-9dea-131e030c33a9" lang="nl-NL">t'is zeer heet</span>
+      </p>
+      <p xml:id="i-186295d1-e947-4e88-8481-7fel0a84e5cf" lang="sr-SR">
+        <span xml:id="i-af8ddc26-bdbf-4bdb-843d-e8b4debc32cb" lang="sr-SR">a bin hatti him</span>
+        <span xml:id="i-25bbcd68-6570-4885-a13b-baaa2a438c5e" lang="nl-NL">t heeft hem of haar zeer leed gedaan</span>
+      </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174000" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174001" lang="sr">Hatti</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174002" lang="nl">pijn, zeer, ook heet</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174003" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174004" lang="sr">faija</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174005" lang="nl">heet, warm ook vuur</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174006" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174007" lang="sr">abron hem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174008" lang="nl">hij of zij heeft zig gebrandt</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174009" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174010" lang="sr">watra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174011" lang="nl">water</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174012" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174013" lang="sr">dedde</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174014" lang="nl">dood</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174015" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174016" lang="sr">a dedde na watra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174017" lang="nl">hij is verdronken of in 't water gestorven</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174018" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174019" lang="sr">a hatti mi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174020" lang="nl">'t doet mij zeer pijn, ook 't doet mij leed</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174021" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174022" lang="sr">libi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174023" lang="nl">leeven</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174024" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174025" lang="sr">kili</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174026" lang="nl">doden</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174027" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174028" lang="sr">a kil hem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174029" lang="nl">hij heeft hem of haar gedood of vermoort.</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174030" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174031" lang="sr">no kili mi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174032" lang="nl">dood of vermoordt mij niet</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174033" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174034" lang="sr">fomfom</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174035" lang="nl">slaagen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174036" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174037" lang="sr">a kil hem langa fomfom</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174038" lang="nl">hij heeft hem of haar met slaagen, vermoort</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174039" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174040" lang="sr">a fom hem for troe</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174041" lang="nl">hij heeft hem of haar veel geslaagen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174042" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174043" lang="sr">dea</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174044" lang="nl">daar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174045" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174046" lang="sr">haaij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174047" lang="nl">oogen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174048" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174049" lang="sr">jeisi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174050" lang="nl">ooren</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174051" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174052" lang="sr">kakaholo</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174053" lang="nl">aarsgat</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174054" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174055" lang="sr">zabi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174056" lang="nl">weeten</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174057" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174058" lang="sr">a sabi santi fortroe</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174059" lang="nl">hij weet veel zaaken</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174060" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174061" lang="sr">ano sabi notti</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174062" lang="nl">hij weet niets</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174063" lang="nl">
+        ziel, daar hebbense geen ander woord voor als
+    </note>
+    <p>
+        <span>hatti</span>
+        <span>'t hart</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174064" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174065" lang="sr">dreij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174066" lang="nl">droog</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174067" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174068" lang="sr">natti</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174069" lang="nl">nat vogtig</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174070" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174071" lang="sr">tem, datem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174072" lang="nl">tijd, t'is tijd, die tijd</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174073" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174074" lang="sr">santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174075" lang="nl">dingen zaaken ook zant</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174076" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174077" lang="sr">alla santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174078" lang="nl">alle dingen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174079" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174080" lang="sr">toe moussi santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174081" lang="nl">teveel dingen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174082" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174083" lang="sr">wissi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174084" lang="nl">vergift</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174085" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174086" lang="sr">a habi wissi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174087" lang="nl">hij of zij heeft vergift</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174088" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174089" lang="sr">dressiman</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174090" lang="nl">Geneesheer</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174091" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174092" lang="sr">datra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174093" lang="nl">doctor</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174094" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174095" lang="sr">wiriwiri</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174096" lang="nl">allerleij groenten en kruijden</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174097" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174098" lang="sr">a habi wiriwiri</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174099" lang="nl">hij heeft kruijderijen daar mee</span>
+      <note>de beteekenense, een die na haar meening toverkruijden en vergiftige zaaken heeft.</note>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174100" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174101" lang="sr">Wiri-Wiri</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174102" lang="nl">'t haair van Menschen en beesten</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174103" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174104" lang="sr">biggi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174105" lang="nl">groot</span>
+    </p>
+    <pb/>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174106" lang="nl" type="pageNr">
+      281
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174107" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174108" lang="sr">joedea</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174109" lang="nl">benje daar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174110" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174111" lang="sr">mi dea hiaso</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174112" lang="nl">ik ben hier</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174113" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174114" lang="sr">hiaso</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174115" lang="nl">hier op deze plaats</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174116" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174117" lang="sr">na mi seij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174118" lang="nl">aan mijn zijde</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174119" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174120" lang="sr">membre</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174121" lang="nl">denken gedagte</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174122" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174123" lang="sr">membre mi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174124" lang="nl">denkt om mij</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174125" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174126" lang="sr">mi missi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174127" lang="nl">mijn Meesteres</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174128" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174129" lang="sr">joe missi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174130" lang="nl">uw Meesteres</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174131" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174132" lang="sr">Gran Massra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174133" lang="nl">Groot of voornaamste Meester in tegenstelling van een Vader met een Zoon of een administrateur en Eijgenaar.</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174134" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174135" lang="sr">Pikin Massra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174136" lang="nl">kleijn Meester of zoon van den Meester</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174137" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174138" lang="sr">Pikien Missi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174139" lang="nl">klein Meesteres of dogter</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174140" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174141" lang="sr">nem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174142" lang="nl">naam</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174143" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174144" lang="sr">hoefisi hem nem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174145" lang="nl">hoe is zijn of haar naam</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174146" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174147" lang="sr">jam</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174148" lang="nl">eeten</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174149" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174150" lang="sr">mi de jam</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174151" lang="nl">ik eet</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174152" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174153" lang="sr">a jam kaba</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174154" lang="nl">hij heeft gegeeten</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174155" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174156" lang="sr">drinki</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174157" lang="nl">drank, drinken</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174158" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174159" lang="sr">drei</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174160" lang="nl">dorst droogte</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174161" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174162" lang="sr">a drei</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174163" lang="nl">t'is droog</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174164" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174165" lang="sr">biggi santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174166" lang="nl">groote zaak</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174167" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174168" lang="sr">pikien</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174169" lang="nl">klein</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174170" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174171" lang="sr">dano pekien santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174172" lang="nl">dat is geen kleine zaak</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174173" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174174" lang="sr">mi pekien of Pekinini</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174175" lang="nl">mijn kleine mijn kind</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174176" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174177" lang="sr">Paaij wan ollo Paaij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174178" lang="nl">een oud Man</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174179" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174180" lang="sr">Paaij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174181" lang="nl">betaaalen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174182" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174183" lang="sr">paaij mi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174184" lang="nl">betaal mij</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174185" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174186" lang="sr">ogri</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174187" lang="nl">kwaad</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174188" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174189" lang="sr">adoe ogri</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174190" lang="nl">hij of zij doen kwaad ook heeft kwaad gedaan</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174191" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174192" lang="sr">adoe boen</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174193" lang="nl">hij of zij doen goed</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174194" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174195" lang="sr">alla pleisi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174196" lang="nl">overal</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174197" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174198" lang="sr">nowan pleisi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174199" lang="nl">nergens</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174200" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174201" lang="sr">loeke</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174202" lang="nl">ziet, zien</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174203" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174204" lang="sr">loekoe boen</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174205" lang="nl">ziet toe pas op</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174206" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174207" lang="sr">mi loekoe hem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174208" lang="nl">ik pas hem op ik zie na hem</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174209" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174210" lang="sr">Loekoeman</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174211" lang="nl">Ziender Tovenaar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174212" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174213" lang="sr">oetem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174214" lang="nl">wanneer</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174215" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174216" lang="sr">nembre</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174217" lang="nl">nooijt</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174218" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174219" lang="sr">just no</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174220" lang="nl">aanstonds ten eerstens</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174221" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174222" lang="sr">tanpekin</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174223" lang="nl">wagt wat</span>
+    </p>
+    <pb/>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174224" lang="nl">
+      282
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174225" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174226" lang="sr">grandi weij</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174227" lang="nl">lang geleeden</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174228" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174229" lang="sr">Son</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174230" lang="nl">Zon</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174231" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174232" lang="sr">Moen</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174233" lang="nl">Maan</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174234" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174235" lang="sr">Moen go don</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174236" lang="nl">de Maan gaat onder</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174237" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174238" lang="sr">santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174239" lang="nl">dingen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174240" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174241" lang="sr">boen santi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174242" lang="nl">goede dingen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174243" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174244" lang="sr">hosso</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174245" lang="nl">huijs</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174246" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174247" lang="sr">doro</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174248" lang="nl">deur</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174249" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174250" lang="sr">windou fenstre</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174251" lang="nl">fenster</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174252" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174253" lang="sr">slotto</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174254" lang="nl">slot sleutel</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174255" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174256" lang="sr">jari</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174257" lang="nl">Thuijn</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174258" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174259" lang="sr">jariman</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174260" lang="nl">Thuijnier</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174261" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174262" lang="sr">tembreman</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174263" lang="nl">Timmerman</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174264" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174265" lang="sr">coupa</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174266" lang="nl">kuijper</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174267" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174268" lang="sr">meslari</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174269" lang="nl">metzelaar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174270" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174271" lang="sr">bassia</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174272" lang="nl">officier Slave; officier opzigter</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174273" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174274" lang="sr">Massra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174275" lang="nl">Meester</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174276" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174277" lang="sr">mi massra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174278" lang="nl">mijn meester</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174279" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174280" lang="sr">jou massra</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174281" lang="nl">Uw meester</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174282" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174283" lang="sr">mi drei</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174284" lang="nl">ik heb dorst</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174285" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174286" lang="sr">Slipi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174287" lang="nl">Slaapen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174288" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174289" lang="sr">mino Slipi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174290" lang="nl">ik Slaap niet</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174291" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174292" lang="sr">ghi pasi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174293" lang="nl">geef plaats</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174294" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174295" lang="sr">passa</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174296" lang="nl">ga voorbij</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174297" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174298" lang="sr">mi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174299" lang="nl">ik ook mijn</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174300" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174301" lang="sr">joe</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174302" lang="nl">gij</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174303" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174304" lang="sr">him</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174305" lang="nl">hij zij of haar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174306" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174307" lang="sr">him zelfi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174308" lang="nl">hem zelfs; haar zelfs</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174309" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174310" lang="sr">hakisi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174311" lang="nl">vraagen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174312" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174313" lang="sr">hakisi hem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174314" lang="nl">vraagt hem of haar</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174315" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174316" lang="sr">hasi</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174317" lang="nl">paard</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174318" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174319" lang="sr">dago</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174320" lang="nl">hond</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174321" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174322" lang="sr">hago</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174323" lang="nl">varken</span>
+    </p>
+    <head>Verspreide woorden en zinnen in het Sranan</head>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174325" lang="nl">
+      pag. 233
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174326" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174327" lang="sr">a habi hem wintie</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174328" lang="nl">Hij heeft zijn windt</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174329" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174330" lang="sr">of wintie fom hem</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174331" lang="nl">zijn windt heeft hem geslaagen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174332" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174333" lang="sr">ook wintie kissie him</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174334" lang="nl">zijn windt heeft hem gekreegen of bevangen (zie voor verduidelijking mijn aantekeningen op je bureau)</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174335" lang="nl">
+      pag 240
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174336" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174337" lang="sr">grandmama</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174338" lang="nl">grootmoeder, en de oude vrouwen</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174339" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174340" lang="sr">grandtata</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174341" lang="nl">grootvader, deze hebben altijd een deel jong volk, die ze hun kinderen noemen</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174342" lang="nl">
+      pag. 248
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174343" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174344" lang="sr">Loekemans</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174345" lang="nl">en de meerg; zienders</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174346" lang="nl">
+      pag. 254
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174347" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174348" lang="sr">Anassy Tory</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174349" lang="nl">Spin-Vertellingen</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174350" lang="nl">
+      pag. 255
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174351" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174352" lang="sr">(a) Gado Pekien</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174353" lang="nl">Gods-kind (de (a) is een verwijzing in de tekst en geen pronoun)</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174354" lang="nl">
+      pag. 293
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174355" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174356" lang="sr">Poetoe</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174357" lang="nl">knots (waarschijnlijk een stuk hout waarmee de overspelige echtgenote geslagen werd volgens Nepveu)</span>
+    </p>
+    <note xml:id="i-123e4567-e89b-12d3-a456-426614174358" lang="nl">
+      pag. 297
+    </note>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174359" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174360" lang="sr">Piajen</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174361" lang="nl">duivels_Tovenaars</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174362" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174363" lang="sr">de Piajen</span>
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174364" lang="nl">zijn hunne waarzeggers en doctoren</span>
+    </p>
+    <p xml:id="i-123e4567-e89b-12d3-a456-426614174365" lang="sr">
+      <span xml:id="i-123e4567-e89b-12d3-a456-426614174366" lang="sr">de Piay</span>
+      <note xml:id="i-123e4567-e89b-12d3-a456-426614174367" lang="nl">geen vertaling (waarschijnlijk bedoelt Nepveu hiermee het enkelvoud van Piajen; denk je niet? Het woord 'Piay' ken ik wel in de betekenis van 'genezer')</note>
+    </p>
+  </body>
+</TEI>
